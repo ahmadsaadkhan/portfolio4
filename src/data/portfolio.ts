@@ -134,6 +134,14 @@ export const portfolioData = {
   projects: {
     web: [
       {
+        title: 'AWS Dashboard',
+        description: 'Full-featured AWS Dashboard deployed on AWS,ddeveloped in Laravel, Next JS, TypeScript.',
+        stack: ['Next.js', 'TypeScript', 'Sanity'],
+        url: 'http://13.60.254.207:3000',
+        github: '',
+        image: '/images/portfolio/aws-dashboard.png',
+      },
+      {
         title: 'E-Book Store',
         description: 'Full-featured e-book store with Sanity CMS backend, TypeScript, and server-side rendering.',
         stack: ['Next.js', 'TypeScript', 'Sanity'],
