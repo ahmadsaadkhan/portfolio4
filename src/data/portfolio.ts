@@ -136,9 +136,9 @@ export const portfolioData = {
       {
         title: 'AWS Dashboard',
         description: 'Full-featured AWS Dashboard deployed on AWS,ddeveloped in Laravel, Next JS, TypeScript.',
-        stack: ['Next.js', 'TypeScript', 'Sanity'],
+        stack: ['Next.js', 'TypeScript', 'AWS', 'Laravel'],
         url: 'http://13.60.254.207:3000',
-        github: '',
+        github: 'https://github.com/ahmadsaadkhan/aws-dashboard',
         image: '/images/portfolio/aws-dashboard.png',
       },
       {
